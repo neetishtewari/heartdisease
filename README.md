@@ -1,2 +1,2 @@
 # heartdisease
-Use ML to predict heart disease from medical data 
+Use ML to detect possible heart disease patients from the given medical data 
